@@ -1,8 +1,9 @@
 Windows Registry Editor Version 5.00
 
-; Name:		Apple Pips (dark)
-; Author:	Jan T. Sott
-; URL:		https://github.com/idleberg/ApplePips-Windows-Command-Prompt
+;	Name:		Apple Pips (dark)
+;	Author:		Jan T. Sott
+;	License:  	Creative Commons Attribution-ShareAlike 3.0 Unported License
+;	URL:		https://github.com/idleberg/ApplePips-Windows-Command-Prompt
 
 [HKEY_CURRENT_USER\Console]
 "ColorTable00"=dword:00464537
